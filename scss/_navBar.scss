@@ -1,0 +1,27 @@
+nav{
+    background-color: $bg-light
+}
+
+.barraNavegacion{
+    background-color: whitesmoke;
+}
+
+.barraNavegacion__botones{
+    margin: 5px;
+}
+
+.barraNavegacion__items{
+    color:black;
+    margin: 10px;
+    padding-top: 7em;
+    
+}
+
+.logoNav{
+    width: 230px;
+    height: 100px;
+}
+
+.navBotones{
+    text-align: flex-end;
+}
